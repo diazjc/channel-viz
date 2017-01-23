@@ -12,8 +12,8 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'ybL9Bggg0MGM3Wo4ZgTmqTRx8L5DhHxX4qqbN3XYRXaKFdCm', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [1154691919], // Comma separated array of Xively Feed ID numbers
+	var defaultKey		= 'dc21nxPKMBm4Nw7DvveWPn0UKQeZN4FIDFwD1Fi2F28dDffR', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [1673228199], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Temperature at Tahoe House', // Replaces Xively logo in the header
 		dataDuration	= '24hours', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 900, // Default interval for data to be displayed (in seconds)
